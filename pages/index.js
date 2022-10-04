@@ -7,7 +7,7 @@ import { BreakingChangeType } from "graphql";
 
 
 function Home() {
-    const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://44.206.253.224/:1337";
+    const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:1337";
     console.log(`URL: ${API_URL}`)
     const [query, setQuery] = useState("");
     const link = new HttpLink({ uri: `${API_URL}/graphql`})

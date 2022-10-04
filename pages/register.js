@@ -26,7 +26,7 @@ const Register = () => {
         <Col sm="12" md={{ size: 5, offset: 3 }}>
           <div className="paper">
             <div className="header" align="center">
-              <img src="http://http://44.206.253.224:1337/uploads/38d32a8015ed4e8c8392caf0a49f280c.png"
+              <img src="http://localhost:1337/uploads/38d32a8015ed4e8c8392caf0a49f280c.png"
                    width= "200"
               />
             </div>
