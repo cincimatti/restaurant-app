@@ -6,7 +6,7 @@
  */
 // note that this needs to be a "private" key from STRIPE
 const stripe = require("stripe")(
-  "sk_test_51LhteMFXnQiGuLjIY9fele6dCMGZ0oXBQhorZYElkFtDk7WnSmqOrInzPPjbdjE18kokQTtEzIKna7YccAwM1lJw00ujhjp7oU"
+  "sk_test"
 );
 module.exports = {
   /**
