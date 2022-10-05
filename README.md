@@ -24,4 +24,4 @@ ROADMAP:
 Planning to make changes to the bootstrap styling to support mobile devices.
 
 LICENSE INFORMATION:
-Licensing information can be found in the Portfolio repo locate the "LICENSE" file.
+Licensing information can be found in the restaurant-app repo locate the "LICENSE" file.
